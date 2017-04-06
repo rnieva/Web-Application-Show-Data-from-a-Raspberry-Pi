@@ -6,7 +6,6 @@ using MySql.Data.MySqlClient;
 
 namespace tempRasp
 {
-
     public class ModelList
     {
         public List<string> dateList = new List<string>();
